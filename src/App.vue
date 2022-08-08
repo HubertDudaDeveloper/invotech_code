@@ -27,7 +27,6 @@ export default {
 <style lang="scss">
 body {
   margin: 0px;
-  overflow-x: hidden;
 }
 
 #app {
@@ -40,7 +39,7 @@ body {
 }
 @media screen and (max-width: 1050px) {
   div {
-    max-width: 99vw;
+    max-width: 93vw;
   }
 }
 </style>
