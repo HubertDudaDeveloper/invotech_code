@@ -119,11 +119,12 @@ export default {
   #nav__left {
     display: grid;
     justify-items: center;
+    gap: 10px;
   }
   #nav__right {
     display: grid;
     justify-items: center;
-    gap: 20px;
+    gap: 0px;
   }
   .btn:last-child a {
       margin: 0px 0px 0px 0px;
